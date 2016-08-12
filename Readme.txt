@@ -1,4 +1,3 @@
-Readme
 
 #####################################
 
@@ -45,6 +44,11 @@ Basic flow of program:
 3)Copy compile.py into that folder (this is so that subprocess module can work in that directory.There must be other alternatives , but I couln't get them at the time of writing the scripts)
 4) the copied compile.py script is executed to compile the kernel and also this is done  using the 'time' Unix command and 'memory_profiler' as to obtain the information regarding memory usage , cpu utilisation and time taken.
 5)Cleans up by deleting the extracted folder.
+
+Results :
+Please see the "report" file to see some of the results I obtained at the time of submission.At the point of submission , I didn't
+really gave a deep thought about it , hence the obtained data is not much , but even then it is enough to generate some questions in my
+mind that I would like to get to know about in future.
 
 
 
